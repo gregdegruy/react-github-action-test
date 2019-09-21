@@ -19,6 +19,7 @@ const HomePage: React.FC = () => {
       <h1>Welcome to My Great App!</h1>
       <p>
         Hi!
+        HI!!!!!!!!!!!!!!!!!!!!!!
         My name is Ginpei Takanashi.
         I write JavaScript.
         I make JapaneseSushi.
