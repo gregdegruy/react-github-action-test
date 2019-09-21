@@ -23,7 +23,7 @@ const HomePage: React.FC = () => {
         My name is Ginpei Takanashi.
         I write JavaScript.
         I make JapaneseSushi.
-        HI!!!!!!!!!
+        HI!HI!!HI!!!
       </p>
       <p>
         →
